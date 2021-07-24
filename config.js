@@ -35,7 +35,7 @@ exports.ONESIGNAL_APP_ID="YOUR_ONESIGNAL_APP_ID";
 
 //Google setup
 exports.GOOGLE_API_KEY="AIzaSyC5fxkzFG06ILnfh-OI4MUZw_kDj_iBw8M";
-exports.queryTypes="address"
+exports.queryTypes="malaysia"
 exports.queryCountries=['my']; //{['pl', 'fr','us']}
 
 
