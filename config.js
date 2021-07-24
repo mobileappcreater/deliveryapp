@@ -1,18 +1,18 @@
-exports.domain = "https://yoursite.com/api/v2";
+exports.domain = "https://shop.symbrobusinesssolutions.com/api/v2";
 exports.APP_SECRET="app_secret"; //Your app secret - same as in the .env file in your web project 
-exports.APP_NAME="Food Tiger";
-exports.LOGO="https://i.imgur.com/cmLH4gY.jpg";
+exports.APP_NAME="Bollywood Delivery";
+exports.LOGO="https://shop.symbrobusinesssolutions.com/uploads/settings/d59fe542-3cfc-461b-b6b2-7a6392326639_logo.jpg";
 
-exports.SINGLE_MODE=false;
-exports.SINGLE_MODE_ID=1;
-exports.SINGLE_MODE_NAME="Restaurant Name";
+exports.SINGLE_MODE=true;
+exports.SINGLE_MODE_ID=16;
+exports.SINGLE_MODE_NAME="RESTORAN BOLLYWOOD MAJU ENT";
 
 exports.MULTI_CITY=true;
 
 
 //Currency
-exports.currency="USD";
-exports.currencySign="$";
+exports.currency="MYR";
+exports.currencySign="RM";
 
 //COD setup
 exports.enableCOD=true;  //Cash on deliver
