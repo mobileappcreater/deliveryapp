@@ -1,4 +1,4 @@
-package com.mobidonia.foodtiger.generated;
+package com.mobidonia.bollywooddelivery.generated;
 
 import java.util.Arrays;
 import java.util.List;

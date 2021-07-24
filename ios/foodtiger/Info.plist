@@ -55,13 +55,13 @@
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>com.mobidonia.foodtiger</string>
+          <string>com.mobidonia.bollywooddelivery</string>
         </array>
       </dict>
     </array>
     <key>UIRequiresFullScreen</key>
     <true/>
     <key>CFBundleDisplayName</key>
-    <string>foodtiger</string>
+    <string>bollywooddelivery</string>
   </dict>
 </plist>

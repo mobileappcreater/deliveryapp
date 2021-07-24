@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "foodtiger.app"
-               BlueprintName = "foodtiger"
-               ReferencedContainer = "container:foodtiger.xcodeproj">
+               BuildableName = "bollywooddelivery.app"
+               BlueprintName = "bollywooddelivery"
+               ReferencedContainer = "container:bollywooddelivery.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "foodtigerTests.xctest"
-               BlueprintName = "foodtigerTests"
-               ReferencedContainer = "container:foodtiger.xcodeproj">
+               BuildableName = "bollywooddeliveryTests.xctest"
+               BlueprintName = "bollywooddeliveryTests"
+               ReferencedContainer = "container:bollywooddelivery.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "foodtiger.app"
-            BlueprintName = "foodtiger"
-            ReferencedContainer = "container:foodtiger.xcodeproj">
+            BuildableName = "bollywooddelivery.app"
+            BlueprintName = "bollywooddelivery"
+            ReferencedContainer = "container:bollywooddelivery.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "foodtiger.app"
-            BlueprintName = "foodtiger"
-            ReferencedContainer = "container:foodtiger.xcodeproj">
+            BuildableName = "bollywooddelivery.app"
+            BlueprintName = "bollywooddelivery"
+            ReferencedContainer = "container:bollywooddelivery.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,8 +1,8 @@
 {
-  "name": "foodtiger",
+  "name": "bollywooddelivery",
   "expo": {
-    "name": "foodtiger",
-    "slug": "foodtiger",
+    "name": "bollywooddelivery",
+    "slug": "bollywooddelivery",
     "version": "2.2.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,14 +19,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.mobidonia.foodtiger"
+      "bundleIdentifier": "com.mobidonia.bollywooddelivery"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.mobidonia.foodtiger"
+      "package": "com.mobidonia.bollywooddelivery"
     },
     "web": {
       "favicon": "./assets/favicon.png"

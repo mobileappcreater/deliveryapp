@@ -62,6 +62,6 @@
     "react-test-renderer": "~16.13.1"
   },
   "private": true,
-  "name": "foodtiger",
+  "name": "bollywooddelivery",
   "version": "1.0.0"
 }
