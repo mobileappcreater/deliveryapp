@@ -1,7 +1,7 @@
-exports.domain = "https://shop.symbrobusinesssolutions.com/api/v2";
+exports.domain = "https://restaronbollywood.com/api/v2";
 exports.APP_SECRET="app_secret"; //Your app secret - same as in the .env file in your web project 
 exports.APP_NAME="Bollywood Delivery";
-exports.LOGO="https://shop.symbrobusinesssolutions.com/uploads/settings/d59fe542-3cfc-461b-b6b2-7a6392326639_logo.jpg";
+exports.LOGO="https://restaronbollywood.com/uploads/settings/d59fe542-3cfc-461b-b6b2-7a6392326639_logo.jpg";
 
 exports.SINGLE_MODE=true;
 exports.SINGLE_MODE_ID=16;
