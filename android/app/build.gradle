@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId  'com.mobidonia.bollywooddelivery'
+        applicationId  'com.restoranbollywood.bollywooddelivery'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
