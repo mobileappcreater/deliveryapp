@@ -22,7 +22,7 @@ exports.enableStripe=true;
 exports.stripePublishKey="";
 
 //Other payment gateways
-exports.enablePayPal=true; 
+exports.enablePayPal=true;
 exports.enableMollie=true; 
 exports.enablePayStack=true; 
 
